@@ -31,14 +31,14 @@ The final dashboard provides a consolidated view of business performance and ope
 
 This project uses two publicly available datasets from Kaggle.
 
-### Dataset 1 — Quick Commerce Dataset
+### Dataset 1 - Quick Commerce Dataset
 
 Contains quick-commerce transaction information covering orders, customers age and location, products, delivery, payment methods, ratings, and other operational attributes.
 
 **Source:**
 [Quick Commerce Dataset - Kaggle](https://www.kaggle.com/datasets/rohitgrewal/quick-commerce-dataset)
 
-### Dataset 2 — E-Commerce Analytics: Swiggy, Zomato, Blinkit
+### Dataset 2 - E-Commerce Analytics: Swiggy, Zomato, Blinkit
 
 Contains quick-commerce order and service-related information across platforms including Blinkit, Swiggy Instamart, and JioMart.
 

@@ -194,4 +194,5 @@ Trend Analysis, Customer Segmentation, Operational Analysis, Delivery Analysis, 
 ### Veena M
 
 [LinkedIn](https://www.linkedin.com/in/veenam1410)
+
 [GitHub](https://github.com/veenam1410)
